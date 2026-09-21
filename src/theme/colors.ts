@@ -1,0 +1,16 @@
+export const colors = {
+  background: '#F6F0E6',
+  surface: '#FFFbf5',
+  preview: '#14110F',
+  ink: '#1D1612',
+  muted: '#6E6258',
+  gold: '#C4A15A',
+  goldDark: '#8A682C',
+  burgundy: '#6A2B3A',
+  overlay: 'rgba(16, 10, 8, 0.48)',
+  overlayStrong: 'rgba(12, 8, 6, 0.72)',
+  white: '#FFFFFF',
+  line: 'rgba(29, 22, 18, 0.08)',
+  danger: '#B42318',
+  success: '#2F6B4F',
+};
